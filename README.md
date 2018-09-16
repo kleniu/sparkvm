@@ -10,3 +10,6 @@ Java, [Spark 2.1](https://www.python.org/), and [pip](https://pypi.python.org/py
 ## Datasets
 
 * Credit Card Fraud data set downloaded from [Kaggle](https://www.kaggle.com/dalpozz/creditcardfraud/downloads/creditcardfraud.zip) on 03-May-2017.
+
+## Desc
+http://jarrettmeyer.com/2017/05/04/random-forests-with-pyspark
